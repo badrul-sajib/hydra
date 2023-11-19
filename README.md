@@ -50,7 +50,7 @@ It's super easy to get Hydra up and running.
 First clone the project and change the directory
 
 ```shell
-git clone https://github.com/hasinhayder/hydra.git
+git clone https://github.com/badrulsajib/hydra.git
 cd hydra
 ```
 
